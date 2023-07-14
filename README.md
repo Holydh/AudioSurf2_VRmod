@@ -3,6 +3,7 @@ A VR mod for AudioSurf 2
 
 ### Install :
 Download the zip file available in the Releases section. Extract the zip in your game's root folder. Launch the game.
+For some reasons the launch setting "-vrmode Oculus" doesn't work as is. But this VR mod works with OpenComposite.
 
 ### Settings :
 Move the ingame camera horizontaly with IJKL keys.<br>
