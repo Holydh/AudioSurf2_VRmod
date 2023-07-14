@@ -5,13 +5,13 @@ A VR mod for AudioSurf 2
 Extract the zip in your game's root folder. Launch the game.
 
 ### Settings :
-Move the ingame camera horizontaly with IJKL keys.
-Move the ingame camera verticaly with LeftShift + I or K.
-Increase or decrease VR view scale with LeftShift + U or J.
-Rotate camera with LeftShift + O or L.
-Increase or decrease UI scale with LeftCtrl + U or J.
-Move UI forward or backward with LeftCtrl + I or K.
-Press BackSpace to reset every settings.
+Move the ingame camera horizontaly with IJKL keys.<br>
+Move the ingame camera verticaly with LeftShift + I or K.<br>
+Increase or decrease VR view scale with LeftShift + U or J.<br>
+Rotate camera with LeftShift + O or L.<br>
+Increase or decrease UI scale with LeftCtrl + U or J.<br>
+Move UI forward or backward with LeftCtrl + I or K.<br>
+Press BackSpace to reset every settings.<br>
 
 The camera and UI placement and scale is automatically saved in Bepinex/config/AudioSurf2VRmod.cfg (the file is automatically created when the game is launched the first time with the mod).
 You'll also find the setting "Alternative VR Scaling mod" set to true or false. This allows to change the scaling method. One is better for huge scale, and the other is best for tiny scale. Pushing the scaling to far will make the UI go a bit crazy. Increase the UI scale in that case. Scaling is kind of an experimental function. Weird things can happen if pushed too far.
