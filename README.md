@@ -2,7 +2,7 @@
 A VR mod for AudioSurf 2
 
 ### Install :
-Extract the zip in your game's root folder. Launch the game.
+Download the zip file available in the Releases section. Extract the zip in your game's root folder. Launch the game.
 
 ### Settings :
 Move the ingame camera horizontaly with IJKL keys.<br>
