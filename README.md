@@ -20,7 +20,7 @@ You'll also find the setting "Alternative VR Scaling mod" set to true or false. 
 If your xbox gamepad doesn't work, deactivate SteamInput in the Steam Controller settings of the game.
 
 ### Final note :
-Feel free to reuse, modify and redistribute the code of this Bepinex plugin as I won't work much more on it. Some AudioSurf 2 skins may have issues with it that could be fixed by adding specific functions and/or HarmonyX patches.
-My mod is a bit "rough" on the edges and not made with having the cleanest code possible in mind so, there's still lots of room for improvements.
+Feel free to reuse, modify and redistribute the code of this Bepinex plugin as I won't work much more on it. Some AudioSurf 2 skins may have issues with it that could be fixed by adding specific functions and/or HarmonyX patches. Some other have shaders uncompatible with VR that could be fixed by the mod creator.
+My mod is still a bit "rough" on the edges and not made with having the cleanest code possible in mind so, there's still lots of room for improvements.
 
 ## A big thank to GeekyGami for his support and thank to the Flatscreen2VR community for all their amazing work and knowledge !
