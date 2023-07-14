@@ -2,7 +2,7 @@
 A VR mod for AudioSurf 2
 
 ### Install :
-Download the zip file available in the Releases section. Extract the zip in your game's root folder. Launch the game.
+Download the zip file available in the Releases section. Extract the zip in your game's root folder. Launch the game.<br>
 For some reasons the launch setting "-vrmode Oculus" doesn't work as is. But this VR mod works with OpenComposite.
 
 ### Settings :
